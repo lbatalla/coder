@@ -2,3 +2,4 @@ Hola mundo
 Chau mundo
 buenas mundo
 que onda mundo
+new line
